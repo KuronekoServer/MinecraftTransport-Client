@@ -1,24 +1,21 @@
-[![GitHub issues](https://img.shields.io/github/issues/RezxisNetwork/MinecraftTransport-Client?style=for-the-badge)](https://github.com/RezxisNetwork/MinecraftTransport-Client/issues)
-[![GitHub stars](https://img.shields.io/github/stars/RezxisNetwork/MinecraftTransport-Client?style=for-the-badge)](https://github.com/RezxisNetwork/MinecraftTransport-Client/stargazers)
-[![GitHub license](https://img.shields.io/github/license/RezxisNetwork/MinecraftTransport-Client?style=for-the-badge)](https://github.com/RezxisNetwork/MinecraftTransport-Client)
+[![GitHub issues](https://img.shields.io/github/issues/kuronekoserver/MinecraftTransport-Client?style=for-the-badge)](https://github.com/kuronekoserver/MinecraftTransport-Client/issues)
+[![GitHub stars](https://img.shields.io/github/stars/kuronekoserver/MinecraftTransport-Client?style=for-the-badge)](https://github.com/kuronekoserver/MinecraftTransport-Client/stargazers)
+[![GitHub license](https://img.shields.io/github/license/kuronekoserver/MinecraftTransport-Client?style=for-the-badge)](https://github.com/kuronekoserver/MinecraftTransport-Client)
 # MinecraftTransport-Client
-This is a Spigot plugin that allows you to publish a server without opening ports.  
-It works with Paper / Bukkit / Spigot etc.  
-Cannot be used for vanilla servers or mod servers.
+ポートを開けずにサーバを公開するためのSpigotプラグインです。 
+Paper / Bukkit / Spigot などで動作します。 
+バニラサーバやMODサーバには使用できません。(多分？）
 
 # How to Use
-1. Put the downloaded jar file into the plugins folder.
-2. The first boot requires a reboot to generate Config.
-3. After rebooting, the IP displayed in the console will be the IP address and port number to connect to.
+1. ダウンロードをしてpluginsフォルダーにいれる
+2. 最初のブートでは、Configを生成するために再起動が必要です。
+3. 再起動後、コンソールに表示されるIPは、接続先のIPアドレスとポート番号になります。
 
 # WARNING
-version 0.0.1-SNAPSHOT and version 0.0.2-SNAPSHOT are not compatible!  
-you have to regenerate configuration file.
+必ず最新版をご使用ください
 
 # Proxy Server
-mctp1.nohit.cc:9998  
-mctp2.nohit.cc:9998  
-mctp3.nohit.cc:9998  
+mctp.kuroneko6423.com:9998  
 
 # Support
-[![Discord Banner 4](https://discordapp.com/api/guilds/691818868943093812/widget.png?style=banner4)](https://discord.nohit.cc)
+[![Discord Banner 4](https://discordapp.com/api/guilds/867038364552396860/widget.png?style=banner4)](https://discord.gg/Y6w5Jv3EAR )
